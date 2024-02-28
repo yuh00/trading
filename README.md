@@ -2,6 +2,6 @@
 
 # market structure + trend direction:
 
-HH: Higher highs HL: Higher Lows
+HH: Higher highs HL: Higher Lows '\n'
 LH: Lower Highs LL: Lower Lows
 
